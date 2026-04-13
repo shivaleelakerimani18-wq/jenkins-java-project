@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Hello Everyone ,</h2>
+      <h2> Hello Guys ,</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
