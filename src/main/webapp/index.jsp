@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div> hello this is webhoooook</div>
+    <div> hello this is webhook</div>
     <nav>
       <a href="#"><img src="https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
     </nav>
@@ -22,7 +22,7 @@
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>enter Password</label>
         </div>
         <button type="submit"> BYE  </button>
         <div class="form-help">
